@@ -1,0 +1,5 @@
+A la fecha: Tue Nov 30 2021 18:02:05 GMT-0300 (hora de verano de Chile)
+Fue realizada la cotizzacion con los siguientes datos:
+Cantidad de pesos a convertir 25000 pesos
+Convertido a "dolar" da un total de:
+$29.878216389994382
